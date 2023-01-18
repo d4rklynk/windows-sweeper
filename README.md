@@ -1,7 +1,7 @@
 # windows-sweeper
 To clean some stuff on Windows without installing sketchy software that y'all know. Safe script
 
-Can be used in business if you RTFM before. Just *read* the script, don't do IKEA.
+Can be used in business if you RTFM before. Just ***read*** the script, don't do IKEA.
 
 # Quick summon
 
