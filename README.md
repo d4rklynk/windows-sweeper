@@ -25,8 +25,8 @@ Purge des fichiers temporaires de chaque utilisateur
  - Fichier temporaire Chrome
  - Fichier temporaire Firefox
  - Fichier temporaire Java
- Vide la corbeille Windows
- Vérifie la presente d'un fichier pagefiles.sys
- Affiche la localisation et la taille du Pagefiles.sys
- Affiche la volumétrie avant et apres le passage du script
- Donne le pourcentage d'espace libre du disque C:
+Vide la corbeille Windows
+Vérifie la presente d'un fichier pagefiles.sys
+Affiche la localisation et la taille du Pagefiles.sys
+Affiche la volumétrie avant et apres le passage du script
+Donne le pourcentage d'espace libre du disque C:
